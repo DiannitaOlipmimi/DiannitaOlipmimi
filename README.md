@@ -1,24 +1,9 @@
 ### Hi there 👋
 
-📊 Data Explorer | Code Enthusiast
+**📊 Data Analyst with a Statistical Edge**
 
-Hey! I'm all about data and code. Let's turn numbers into stories and make tech do the talking.
+Greetings! As a dedicated data analyst armed with a Bachelor's degree in Statistics, I bring a strong analytical foundation to the table. With a keen eye for patterns and a passion for translating complex data into actionable insights, I'm committed to empowering informed decision-making. Let's explore the world of data together and uncover meaningful narratives that drive success.
 
-🔍 Seeker of Insights
-
-I love digging into data to find those "Aha!" moments. Let's discover trends and make sense of chaos.
-
-📊 Visualizer
-
-Graphs and charts? My canvas. Let's create visual stories that everyone can understand.
-
-💬 Let's Connect
-
-Got a data puzzle? Let's chat! I'm here to help you navigate the data maze.
-
-🌟 Credentials
-
-Check out my code adventures in the GitHub world. Let's explore data together!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diannitaolipmimi&show_icons=true&locale=en&layout=compact" alt="diannitaolipmimi" /></p>
 
