@@ -3,7 +3,10 @@
 I'm resourceful and quick-witted person with a strong background in Statistics. Proficient in transforming and analysis in large datasets using SQL, R, Python, Excel, and Power BI. Certified in database management and data visualization.
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diannitaolipmimi&show_icons=true&locale=en&layout=compact" alt="diannitaolipmimi" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diannitaolipmimi&show_icons=true&locale=en&layout=compact" alt="diannitaolipmimi" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diannitaolipmimi&" alt="diannitaolipmimi" /></p>
 
 
 <h3 align="left">📚Tools Showcased</h3>
