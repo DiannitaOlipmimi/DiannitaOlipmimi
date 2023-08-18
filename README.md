@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Resourceful and quick-witted person with a strong background in Statistics. Proficient in transforming and analysis in large datasets using SQL, R, Python, Excel, and Power BI to derive actionable insights and support data-driven decision-making. Certified in database management and data visualization.
+Resourceful and quick-witted person with a strong background in Statistics. Proficient in transforming and analysis in large datasets using SQL, R, Python, Excel, and Power BI. Certified in database management and data visualization.
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diannitaolipmimi&show_icons=true&locale=en&layout=compact" alt="diannitaolipmimi" /></p>
