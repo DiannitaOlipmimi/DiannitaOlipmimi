@@ -1,13 +1,28 @@
 ### Hi there 👋
 
-I'm resourceful and quick-witted person with a strong background in Statistics. Proficient in transforming and analysis in large datasets using SQL, R, Python, Excel, and Power BI. Certified in database management and data visualization.
+📊 Data Explorer | Code Enthusiast
 
+Hey! I'm all about data and code. Let's turn numbers into stories and make tech do the talking.
+
+🔍 Seeker of Insights
+
+I love digging into data to find those "Aha!" moments. Let's discover trends and make sense of chaos.
+
+📊 Visualizer
+
+Graphs and charts? My canvas. Let's create visual stories that everyone can understand.
+
+💬 Let's Connect
+
+Got a data puzzle? Let's chat! I'm here to help you navigate the data maze.
+
+🌟 Credentials
+
+Check out my code adventures in the GitHub world. Let's explore data together!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diannitaolipmimi&show_icons=true&locale=en&layout=compact" alt="diannitaolipmimi" /></p>
 
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=diannitaolipmimi&" alt="diannitaolipmimi" /></p>
-
 
 <h3 align="left">📚 Projects</h3>
 
