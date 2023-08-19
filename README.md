@@ -1,5 +1,7 @@
-### Greetings!
-### Hey there👋, I'm Nita 
+<h3> Greetings! </h3> 
+
+<h4> Hey there👋, I'm Nita </h4>
+
 I have a Bachelor's degree in Statistics and a boundless enthusiasm for turning data into knowledge📑. With a strong foundation in statistical techniques and a curious mindset, I'm on a mission to decode the stories lurking within datasets. From probability distributions to regression analysis, I'm here to bring clarity and understanding to the world of data. Let's embark on a journey to transform data points into meaningful discoveries! 🚀🔍
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diannitaolipmimi&show_icons=true&locale=en&layout=compact" alt="diannitaolipmimi" /></p>
