@@ -1,9 +1,6 @@
-### Hi there 👋
+### Greetings! I'm Nita👋
 
-**📊 Data Analyst with a Statistical Edge**
-
-Greetings! As a dedicated data analyst armed with a Bachelor's degree in Statistics, I bring a strong analytical foundation to the table. With a keen eye for patterns and a passion for translating complex data into actionable insights, I'm committed to empowering informed decision-making. Let's explore the world of data together and uncover meaningful narratives that drive success.
-
+I have a Bachelor's degree in Statistics, and my passion lies in transforming raw data into meaningful insights that drive smarter decisions using tools such as R/RStudio, Python, SQL, Tableau, and Power BI. I'm certified in database management by ORACLE and in data visualization using Tableau.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diannitaolipmimi&show_icons=true&locale=en&layout=compact" alt="diannitaolipmimi" /></p>
 
