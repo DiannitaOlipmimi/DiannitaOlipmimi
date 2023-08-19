@@ -1,6 +1,6 @@
-### Greetings! I'm Nita👋
+### Greetings!
 
-I have a Bachelor's degree in Statistics, and my passion lies in transforming raw data into meaningful insights that drive smarter decisions using tools such as R/RStudio, Python, SQL, Tableau, and Power BI. I'm certified in database management by ORACLE and in data visualization using Tableau.
+Hey there👋, I'm Nita armed with a Bachelor's degree in Statistics and a boundless enthusiasm for turning data into knowledge. With a strong foundation in statistical techniques and a curious mindset, I'm on a mission to decode the stories lurking within datasets. From probability distributions to regression analysis, I'm here to bring clarity and understanding to the world of data. Let's embark on a journey to transform data points into meaningful discoveries! 🚀🔍
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diannitaolipmimi&show_icons=true&locale=en&layout=compact" alt="diannitaolipmimi" /></p>
 
