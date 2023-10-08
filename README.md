@@ -3,7 +3,7 @@
 <h4> Hey there👋, I'm Nita </h4>
 
 
-I have a Bachelor's degree in Statistics and a boundless enthusiasm for turning data into knowledge. With a strong foundation in statistical techniques and a curious mindset, I'm on a mission to decode the stories lurking within datasets. From probability distributions to regression analysis, I'm here to bring clarity and understanding to the world of data. Let's embark on a journey to transform data points into meaningful discoveries! 🚀📊🔍
+I have a Bachelor's degree in Statistics and a boundless enthusiasm for turning data into knowledge. With a strong foundation in statistical techniques and a curious mindset, I'm here to bring clarity and understanding to the world of data. Let's embark on a journey to transform data points into meaningful discoveries! 🚀📊🔍
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=diannitaolipmimi&show_icons=true&locale=en&layout=compact" alt="diannitaolipmimi" /></p>
 
@@ -21,12 +21,6 @@ I have a Bachelor's degree in Statistics and a boundless enthusiasm for turning 
 | [💸 E-Commerce Cohort Analysis](https://github.com/DiannitaOlipmimi/E-Commerce_Cohort_Analysis)                         | Jupyter Notebook (Python)   | Cohort, Retention Analysis                                                              |Melakukan cohort analysis pada sebuah perusahaan E-Commerce di UK untuk menganalisa perilaku konsumen dan menemukan key factors yang dapat membantu menaikan user retention kedepannya|
 | [🛍️ Retail Sales Mall RFM Analysis](https://github.com/DiannitaOlipmimi/Retail_Sales_RFM)                         | Jupyter Notebook (Python)   | RFM, User Segmentation Analysis                                                              |Melakukan analisis RFM (Recency, Frequency, Monetary) pada data penjualan retail dari 10 mal di kota Istanbul. Analisis ini bertujuan untuk memahami pola pembelian pelanggan, mengidentifikasi segmen pelanggan yang berbeda, dan merumuskan strategi pemasaran yang lebih efektif.|
 | [🏪 Market Basket Analysis on Minimarket Data](https://github.com/DiannitaOlipmimi/Minimarket_MarketBasketAnalysis)                         | R/RStudio   |  Market Basket Analysis                                                          |Melakukan analisis market basket untuk menemukan produk-produk yang sering dibeli secara bersama dalam satu keranjang atau market basket|
-
-<h3 align="left">📚Tools:</h3>
-
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </
-a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
 
 <h3 align="left">📚 Connect with me:</h3>
 <p align="left">
